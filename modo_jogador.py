@@ -1,11 +1,3 @@
-# Jogo baseado no algorítimo binário.
-# Tente adivinhar o número que o programa der no menor número de tentativas.
-# Se o número tentado for menor do que 10 números abaixo do X = Muito Baixo
-# se o número tentado estiver entre 1 a 10 números abaixo do X = Baixo
-# Se o número tentado for maior do que 10 números acima do X = Muito alto
-# Se o número tentado estiver entre 1 a 10 números acima do X = Alto
-
-
 import random
 import os
 
@@ -56,3 +48,4 @@ def jogar():
 
         else:
             print(f"\n{tentativa} é Muito Baixo")
+
