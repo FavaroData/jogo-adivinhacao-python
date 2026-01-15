@@ -19,6 +19,12 @@ def jogar():
     print("  JOGO DE ADIVINHAÇÃO")
     print("========================")
     print("\nEu escolhi um número entre 1 e 100, e você tem que adivinhar!")
+    print("Vou responder as suas tentativas da seguinte forma:")
+    print("- 'muito alto'  (>10 acima)")
+    print("- 'alto'        (1 a 10 acima)")
+    print("- 'baixo'       (1 a 10 abaixo)")
+    print("- 'muito baixo' (>10 abaixo)")
+    print("- 'sim'         (acertou)\n")
 
     while True:
         print(f"Tentativas: {tentativas}")
@@ -48,4 +54,5 @@ def jogar():
 
         else:
             print(f"\n{tentativa} é Muito Baixo")
+
 
