@@ -24,3 +24,13 @@ O jogo utiliza dicas baseadas na distância entre o chute e o número correto:
 - Biblioteca `random` (para randomizar um número dentro de um range de 1, 100)
 - Biblioteca `os` (para limpar o terminal)
 
+## Conceitos praticados
+- Lógica de programação
+- Funções
+- Modularização de código
+- Manipulação de entrada do usuário
+- Condicionais (`if / elif / else`)
+- Importação de módulos
+- Uso de bibliotecas(`os` e `random`)
+- Estruturas de repetição
+- Validação de entrada
