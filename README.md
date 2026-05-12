@@ -21,8 +21,6 @@ O jogo utiliza dicas baseadas na distância entre o chute e o número correto:
 
 ## Tecnologias utilizadas
 - Python 3
-- Biblioteca `random` (para randomizar um número dentro de um range de 1, 100)
-- Biblioteca `os` (para limpar o terminal)
 
 ## Conceitos praticados
 - Lógica de programação
